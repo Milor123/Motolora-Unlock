@@ -1,5 +1,5 @@
 # Motolora-Unlock
-Script that generate the id of Motorola Phones for get the unlock bootloader
+Script that generates the id of `Motorola smartphones` for get the unlock bootloader
 
 Requeriments
 ==========

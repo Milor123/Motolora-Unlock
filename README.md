@@ -14,4 +14,4 @@ You need it:
 **How use?**
 ********
 
-Download script and run with your smartphone connected, use `python motorola_get_id.py` command, then it returns the **ID code** and generate and also file.
+Download script and run with your smartphone connected to the pc, use `python motorola_get_id.py` command, then it returns the **ID code** and generate and also file.

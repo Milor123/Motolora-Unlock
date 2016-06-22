@@ -9,7 +9,7 @@ You need it:
 * Install in path the `fastboot`
 * A motorola Smartphone for test tool
 * Python 2.7x
-
+<br/>
 **How use?**
 ********
 

@@ -1,3 +1,6 @@
+#Author: Mateo Bohorquez
+#NickName: MingoDRobin, Milor123
+
 from subprocess import Popen, PIPE, STDOUT
 import threading
 

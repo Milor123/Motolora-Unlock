@@ -10,8 +10,6 @@ You need it:
 * A motorola Smartphone for test tool
 * Python 2.7x
 
-<br/>
-
 How use?
 ===========
 Download script and run with your smartphone connected in fastbootmode to the pc, use `python motorola_get_id.py` command, then it returns the **ID code** and generate and also file.

@@ -2,7 +2,7 @@
 Script that generates the id of `Motorola smartphones` for get the unlock bootloader
 
 **Requeriments**
-***********
+******************
 
 You need it:
 
@@ -11,7 +11,7 @@ You need it:
 * Python 2.7x
 
 <br/>
-**How use?**
-********
 
+**How use?**
+*************
 Download script and run with your smartphone connected in fastbootmode to the pc, use `python motorola_get_id.py` command, then it returns the **ID code** and generate and also file.

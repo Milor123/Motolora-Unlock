@@ -1,4 +1,4 @@
-# Motolora-Unlock
+# Motolora-Unlock (Abandoned project - No support provided, does not work on current phones.)
 Script that generates the **id** of `Motorola smartphones` for get the unlock bootloader
 
 Requeriments
